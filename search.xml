@@ -144,4 +144,27 @@ password：Account setting-&gt; Developer setting-&gt; Fine-grained token 创立
         <tag>Git</tag>
       </tags>
   </entry>
+  <entry>
+    <title>创建Gmail账户</title>
+    <url>/LINMUJU.github.io/2023/11/26/Gmail/</url>
+    <content><![CDATA[<h2 id="创建Gmail账户"><a href="#创建Gmail账户" class="headerlink" title="创建Gmail账户"></a>创建Gmail账户</h2><h3 id="未曾创建的账户"><a href="#未曾创建的账户" class="headerlink" title="未曾创建的账户"></a>未曾创建的账户</h3><p>会直接弹出注册界面，不需要填写手机号</p>
+<h3 id="有过多次创建的电脑"><a href="#有过多次创建的电脑" class="headerlink" title="有过多次创建的电脑"></a>有过多次创建的电脑</h3><h4 id="进入无痕模式"><a href="#进入无痕模式" class="headerlink" title="进入无痕模式"></a>进入无痕模式</h4><p><strong>Google浏览器</strong></p>
+<p>shift+ctrl+N</p>
+<p>进入创建页面<br><a href="https://support.google.com/accounts/answer/27441?hl=zh-Hans">https://support.google.com/accounts/answer/27441?hl=zh-Hans</a></p>
+<h4 id="创建账户"><a href="#创建账户" class="headerlink" title="创建账户"></a>创建账户</h4><p><strong>选择个人账户</strong></p>
+<p><strong>按步骤填写</strong></p>
+<p><strong>手机号验证</strong></p>
+<pre><code>1.使用国内手机号注册
+2.使用虚拟手机号平台，https://sms-activate.org/cn/getNumber，尽量不要使用东南亚地区，容易被封号
+</code></pre>
+<p><strong>写定验证邮箱</strong></p>
+<h2 id="chatgpt"><a href="#chatgpt" class="headerlink" title="chatgpt"></a>chatgpt</h2><p>直接使用gmail账户登录，无需注册</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>Google</tag>
+      </tags>
+  </entry>
 </search>
